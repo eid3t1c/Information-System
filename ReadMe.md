@@ -810,10 +810,10 @@ Just make a request to the endpoint
 ```bash
 curl -X GET http://127.0.0.1:5000/signout -H 'Content-Type:application/json'
 ```
-##RESULT:
+## RESULT:
 **signed out**
 
-```
+
 ## Dockerfile Steps
 ![Screenshot_2](https://github.com/Pallarope/YpoxreotikiErgasia22_E19129_Alexandros_Pallis/assets/102302619/2fd031da-f777-4f1f-bdde-2d9b7d96dd0c)
 - **Step 1:** Specify the base OS image as Ubuntu 20.04.
