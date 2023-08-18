@@ -795,7 +795,7 @@ curl -X GET http://127.0.0.1:5000/getAdmins -H 'Content-Type:application/json'  
     "username": "eid3t1c8"
   }
 ]
-
+```
 ## <p align="center">Sign Out</p>
 											
 
