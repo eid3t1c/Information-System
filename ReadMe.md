@@ -8,7 +8,7 @@ This is a simple Information System that consists of Users and Admins.
 - Python 3
 - Flask
 - Pymongo
-- Image of MongoDB
+- MongoDB
 
 
 ## Running the Web Service
