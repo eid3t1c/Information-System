@@ -50,9 +50,6 @@ def register():
     if data == None:
         return Response("Bad Request",status=500,mimetype='application/json')
     Fields = ['email','username','name','password']
-    if Admins.count_documents({}) == 0:
-        id = sha256("ad@gmail.com".encode()+os.urandom(20)).hexdigest()
-        Admins.insert_one({"username" : "admin", "password" : "s3cr3t", "email" : "ad@gmail.com","id" : id})
     for i in Fields:
         if not i in data:
             return Response(i+ ' field is missing', status=500)
