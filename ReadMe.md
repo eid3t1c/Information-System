@@ -14,7 +14,7 @@ This is a simple Information System that consists of Users and Admins.
 ## Running the Web Service
 
 1. Run the following command to start the containers:
-   ```cmd sudo docker-compose up -d ```
+   ``` sudo docker-compose up -d ```
    This will create two containers: one for MongoDB and another for the web service.
    That's it! You've successfully set up the Information System and its dependencies.
 
