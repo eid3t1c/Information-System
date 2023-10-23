@@ -815,7 +815,8 @@ curl -X GET http://127.0.0.1:5000/signout -H 'Content-Type:application/json'
 
 
 ## Dockerfile Steps
-![Screenshot_2](https://github.com/Pallarope/YpoxreotikiErgasia22_E19129_Alexandros_Pallis/assets/102302619/2fd031da-f777-4f1f-bdde-2d9b7d96dd0c)
+![image](https://github.com/eid3t1c/Information-System/assets/102302619/c6edfc1d-5fb2-4f03-ba53-499c442b881a)
+
 - **Step 1:** Specify the base OS image as Ubuntu 20.04.
   ```docker
   FROM ubuntu:20.04
@@ -854,7 +855,8 @@ curl -X GET http://127.0.0.1:5000/signout -H 'Content-Type:application/json'
 
 # docker-compose.yml
 
-![Screenshot_1](https://github.com/Pallarope/YpoxreotikiErgasia22_E19129_Alexandros_Pallis/assets/102302619/6bee67ce-7a88-41b6-8e5b-8225454c670c)
+![image](https://github.com/eid3t1c/Information-System/assets/102302619/dcf0a37e-9f23-4bec-8754-d203ce8cf779)
+
 
 - **Step 1:** Specify the version of Docker Compose.
   ```yaml
